@@ -1,0 +1,75 @@
+
+* {
+    height : 100%;
+    margin : 0;
+    border : border-box;
+    font-family: "lato" , sans-serif;
+    font-size : 16px;
+    font-weight : 400;
+    line-height : 1.8em;
+    
+}
+ .img1 {
+     background-image: url("img1.jpg");
+     height : 100%;
+
+     position : relative;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+.img2 {
+    background-image: url("img2.jpg");
+     height : 400px;
+
+     position : relative;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
+
+.img3 {
+    background-image: url("img3.jpg");
+     height : 100%;
+
+     position : relative;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+
+}
+
+.ptext {
+    position: absolute;
+    top : 5%;
+    width : 100%;
+    text-align: center;
+    
+    text-transform: uppercase;
+    font-size: 27px;
+    letter-spacing: 8px;
+
+}
+
+.textbg {
+    color : rgb(234, 146, 46);
+    background-color: #313534;
+    border : 3px dotted rgb(234, 146, 46) ;
+    padding : 20px;
+}
+
+.para {
+    padding : 50px;
+    text-align: center;
+}
+
+.div {
+    height : 350px;
+    background-color: rgb(42, 42, 42);
+    color : rgb(234, 146, 46);
+}
+
